@@ -18,5 +18,5 @@ A simple Python password generator built while learning Python.
 ## How to Run
 
 ```bash
-python password_generator.py
+python python-password-generator.py
 ```
